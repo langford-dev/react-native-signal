@@ -8,7 +8,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "@digieggs/rn-country-code-picker": "^1.2.0",
+    "@digieggs/rn-country-code-picker": "^1.4.1",
     "@react-native-async-storage/async-storage": "~1.15.0",
     "@react-native-community/clipboard": "^1.5.1",
     "@react-native-firebase/app": "^13.0.1",
